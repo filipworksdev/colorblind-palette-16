@@ -6,7 +6,7 @@ This is a colorblind optimized palette with 16 colors.
 
 ![#000000](https://placehold.it/15/000000/000000?text=+) #000000
 ![#252525](https://placehold.it/15/252525/000000?text=+) #252525
-![#171723](https://placehold.it/15/004949/000000?text=+) #171723
+![#171723](https://placehold.it/15/171723/000000?text=+) #171723
 ![#004949](https://placehold.it/15/004949/000000?text=+) #004949
 ![#490092](https://placehold.it/15/490092/000000?text=+) #490092
 ![#920000](https://placehold.it/15/920000/000000?text=+) #920000

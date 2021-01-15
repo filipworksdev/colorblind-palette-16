@@ -2,7 +2,7 @@ Colorblind Palette 16
 
 This is a colorblind optimized palette with 16 colors. 
 
-Colors should rezolve to unique shades so that they remain identifiable even if the hues are similar. 
+Colors should resolve to unique shades so that they remain identifiable even if the hues are similar. 
 
 ![Palette](colorblind_pal_large.png#thumbnail)
 

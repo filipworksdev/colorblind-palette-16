@@ -14,6 +14,7 @@ Colors should resolve to unique shades so that they remain identifiable even if 
 #920000
 #8f4e00
 #22cf22
+
 #ffffff
 #676767
 #006ddb
